@@ -149,7 +149,7 @@ class _CalculatorState extends State<Calculator> {
                 calcbutton('=', Colors.green.shade700, Colors.white),
               ],
             ),
-            SizedBox(
+            SizedBox( 
               height: 10,
             ),
           ],
